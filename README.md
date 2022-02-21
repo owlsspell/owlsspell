@@ -13,15 +13,17 @@
 [![bootstrap](https://img.shields.io/badge/-bootstrap-282C34?style=for-the-badge&logo=bootstrap)](https://getbootstrap.com/)
 [![MUI](https://img.shields.io/badge/-mui-282C34?style=for-the-badge&logo=mui)](https://mui.com/)
 
-[![node](https://img.shields.io/badge/-node-282C34?style=for-the-badge&logo=nodejs)](https://expressjs.com/)
+[![node.js](https://img.shields.io/badge/-node-282C34?style=for-the-badge&logo=nodedotjs)](https://expressjs.com/)
 [![express](https://img.shields.io/badge/-express-282C34?style=for-the-badge&logo=express)](https://expressjs.com/)
+
+[![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/-Mongodb-282C34?style=for-the-badge&logo=Mongodb&logoColor=00ED64)](https://www.mongodb.com/)
 
 [![Docker](https://img.shields.io/badge/-Docker-282C34?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 
-[![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-Mongodb-023430?style=for-the-badge&logo=Mongodb&logoColor=00ED64)](https://www.mongodb.com/)
 
-[![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql)](https://graphql.org/)
+[![GraphQl](https://img.shields.io/badge/-graphql-282C34?style=for-the-badge&logo=graphql&logoColor=e535ab)](https://graphql.org/)
+![Apollo](https://img.shields.io/badge/-apollo-282C34?style=for-the-badge&logo=apollographql)
 
 <!--
 **owlsspell/owlsspell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
