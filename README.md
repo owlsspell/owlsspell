@@ -19,6 +19,7 @@
 
 [![node.js](https://img.shields.io/badge/-node-282C34?style=for-the-badge&logo=nodedotjs)](https://expressjs.com/)
 [![express](https://img.shields.io/badge/-express-282C34?style=for-the-badge&logo=express)](https://expressjs.com/)
+[![nest.js](https://img.shields.io/badge/-NestJS-282C34?style=for-the-badge&logo=NestJS&logoColor=E0234E)](https://nestjs.com)
 
 [![Postgresql](https://img.shields.io/badge/-Postgresql-282C34?style=for-the-badge&logo=Postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-Mongodb-282C34?style=for-the-badge&logo=Mongodb&logoColor=00ED64)](https://www.mongodb.com/)
